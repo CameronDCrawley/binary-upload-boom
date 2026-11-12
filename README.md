@@ -18,3 +18,6 @@
 # Run
 
 `npm start`
+
+<img width="1420" height="722" alt="image" src="https://github.com/user-attachments/assets/12b2a703-0876-4168-85d1-ac8c27eb8664" />
+
